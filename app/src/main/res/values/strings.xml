@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnlineHardwareOrderingApp</string>
+    <string name="shared_pref">AlreadyOpen</string>
+</resources>
